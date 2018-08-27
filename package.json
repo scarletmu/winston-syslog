@@ -29,7 +29,7 @@
     "glossy": "0.x.x"
   },
   "optionalDependencies": {
-    "unix-dgram": "~0.2.1"
+    "unix-dgram": "^2.0.2"
   },
   "devDependencies": {
     "eslint-config-populist": "^4.1.0",
