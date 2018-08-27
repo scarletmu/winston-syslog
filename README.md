@@ -2,6 +2,10 @@
 
 A Syslog transport for [winston][0].
 
+## Fork for ...
+
+Try to fix Node v10 install failed that caused by dependency unix-dgram version out of date.
+
 ## Installation
 
 ### Installing npm (node package manager)
